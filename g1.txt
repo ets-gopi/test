@@ -3,3 +3,4 @@ this is testing version of my knowledge.
 new_feature1
 new_feature2
 second_time
+new_feature2 testing remote1
